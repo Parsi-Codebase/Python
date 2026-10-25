@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Stride Pro Running Shoes",
+    "category": "footwear",
+    "price": 3499,
+    "description": "Lightweight mesh running shoes with a cushioned EVA midsole for all-day comfort. The breathable upper keeps feet cool on long runs.",
+    "stock": 42
+  },
+  {
+    "id": 2,
+    "name": "Urban Leather Loafers",
+    "category": "footwear",
+    "price": 2799,
+    "description": "Handcrafted genuine leather loafers with a flexible rubber sole. A timeless pick for office wear and smart-casual evenings.",
+    "stock": 18
+  },
+  {
+    "id": 3,
+    "name": "TrailGrip Hiking Boots",
+    "category": "footwear",
+    "price": 5299,
+    "description": "Waterproof ankle-high boots with an aggressive lug outsole for rugged terrain. Reinforced toe caps and padded collars protect against rocks and rubbing.",
+    "stock": 0
+  },
+  {
+    "id": 4,
+    "name": "CloudStep Slide Sandals",
+    "category": "footwear",
+    "price": 799,
+    "description": "Ultra-soft foam slides designed for post-workout recovery and beach days. Quick-drying and easy to clean with just water.",
+    "stock": 120
+  },
+  {
+    "id": 5,
+    "name": "CourtMaster Canvas Sneakers",
+    "category": "footwear",
+    "price": 1899,
+    "description": "Classic low-top sneakers in durable canvas with a vulcanised rubber sole. Available in a clean white finish that pairs with almost anything.",
+    "stock": 65
+  },
+  {
+    "id": 6,
+    "name": "Everyday Cotton Crew Tee",
+    "category": "apparel",
+    "price": 499,
+    "description": "Soft 100% combed cotton t-shirt with a relaxed fit and reinforced stitching. A wardrobe staple that holds its shape wash after wash.",
+    "stock": 250
+  },
+  {
+    "id": 7,
+    "name": "Indigo Slim-Fit Jeans",
+    "category": "apparel",
+    "price": 1799,
+    "description": "Stretch denim jeans with a modern slim cut and a deep indigo wash. Comfortable enough for daily wear and sharp enough for weekends out.",
+    "stock": 84
+  },
+  {
+    "id": 8,
+    "name": "ThermoLayer Fleece Jacket",
+    "category": "apparel",
+    "price": 2499,
+    "description": "Midweight zip-up fleece that traps warmth without adding bulk. Perfect as a standalone layer or under a shell in colder weather.",
+    "stock": 0
+  },
+  {
+    "id": 9,
+    "name": "Linen Blend Summer Shirt",
+    "category": "apparel",
+    "price": 1299,
+    "description": "Breathable linen-cotton shirt with a relaxed collar and button-down front. Keeps you cool and looking polished through the hottest months.",
+    "stock": 37
+  },
+  {
+    "id": 10,
+    "name": "FlexFit Performance Joggers",
+    "category": "apparel",
+    "price": 1199,
+    "description": "Moisture-wicking joggers with a four-way stretch fabric and zippered pockets. Ideal for gym sessions, travel, and lounging alike.",
+    "stock": 96
+  },
+  {
+    "id": 11,
+    "name": "PulseBuds Wireless Earbuds",
+    "category": "electronics",
+    "price": 2999,
+    "description": "True wireless earbuds with active noise cancellation and 24 hours of total battery life. Water-resistant design makes them suitable for workouts and commutes.",
+    "stock": 73
+  },
+  {
+    "id": 12,
+    "name": "VoltMax 20000mAh Power Bank",
+    "category": "electronics",
+    "price": 1899,
+    "description": "High-capacity power bank with 22.5W fast charging and dual USB output. Charges a typical smartphone up to four times on a single charge.",
+    "stock": 140
+  },
+  {
+    "id": 13,
+    "name": "SmartFit Band 5",
+    "category": "electronics",
+    "price": 3499,
+    "description": "Fitness tracker with heart rate, SpO2, and sleep monitoring on a bright AMOLED display. Battery lasts up to 14 days between charges.",
+    "stock": 0
+  },
+  {
+    "id": 14,
+    "name": "SonicBoom Portable Speaker",
+    "category": "electronics",
+    "price": 4299,
+    "description": "Rugged Bluetooth speaker delivering punchy bass and clear vocals with IP67 protection. Enjoy up to 18 hours of playback on a single charge.",
+    "stock": 29
+  },
+  {
+    "id": 15,
+    "name": "ProType Mechanical Keyboard",
+    "category": "electronics",
+    "price": 5499,
+    "description": "Compact 75% mechanical keyboard with hot-swappable switches and per-key RGB lighting. Supports wired and Bluetooth connections for flexible desk setups.",
+    "stock": 15
+  },
+  {
+    "id": 16,
+    "name": "Summit 40L Trekking Backpack",
+    "category": "outdoor",
+    "price": 4599,
+    "description": "Spacious 40-litre backpack with an adjustable ventilated back panel and integrated rain cover. Multiple compartments keep gear organised on multi-day treks.",
+    "stock": 22
+  },
+  {
+    "id": 17,
+    "name": "NomadLite 2-Person Tent",
+    "category": "outdoor",
+    "price": 6999,
+    "description": "Lightweight dome tent with a double-wall design and easy pole setup in under five minutes. Handles wind and light rain, making it ideal for weekend camping.",
+    "stock": 11
+  },
+  {
+    "id": 18,
+    "name": "HydroKeep Insulated Bottle 1L",
+    "category": "outdoor",
+    "price": 999,
+    "description": "Double-wall stainless steel bottle that keeps drinks cold for 24 hours or hot for 12. The leak-proof lid and powder-coated finish stand up to daily adventures.",
+    "stock": 180
+  },
+  {
+    "id": 19,
+    "name": "BeamX Rechargeable Headlamp",
+    "category": "outdoor",
+    "price": 1499,
+    "description": "Compact headlamp with 600 lumens, multiple beam modes, and a USB-C rechargeable battery. Its adjustable tilt and splash-proof body make it great for night hikes.",
+    "stock": 0
+  },
+  {
+    "id": 20,
+    "name": "CozyNight -5°C Sleeping Bag",
+    "category": "outdoor",
+    "price": 3299,
+    "description": "Mummy-style sleeping bag with soft polyester lining and a thermal hood for cold nights. Packs down small into the included compression sack.",
+    "stock": 34
+  }
+]
