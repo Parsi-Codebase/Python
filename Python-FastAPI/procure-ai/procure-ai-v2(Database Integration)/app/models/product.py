@@ -1,0 +1,29 @@
+from decimal import Decimal
+from sqlalchemy import Numeric,String
+from sqlalchemy.orm import Mapped,mapped_column
+from app.models.base import Base
+class Product(Base):
+    __tablename__='products'
+    id:Mapped[int]=mapped_column(
+        primary_key=True
+    )
+    name:Mapped[str]=mapped_column(
+        String(100),
+        nullable=False
+    )
+    description:Mapped[str|None]=mapped_column(
+        String(100),nullable=False
+    )
+    category:Mapped[str]=mapped_column(
+        String(100),
+        nullable=False
+    )
+    unit_price:Mapped[Decimal]=mapped_column(
+        Numeric(12,2),
+        nullable=False
+    )
+    sku:Mapped[str]=mapped_column(
+        String(50),
+        unique=True,
+        nullable=False
+    )
