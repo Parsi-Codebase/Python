@@ -1,0 +1,10 @@
+a = 25              # int
+b = 3.14            # float
+c = "Python"        # str
+d = [1, 2, 3]       # list
+e = (4, 5, 6)       # tuple
+f = {"name": "John", "age": 25}  # dict
+g = {"apple", "banana", "cherry"}  # set
+h = True            # bool
+i = None            # NoneType
+j = 2 + 5j          # complex
